@@ -97,11 +97,11 @@ Porque guardar contraseñas en texto plano es inseguro. Si la base de datos es c
 ## 📸 Capturas de pantalla
 
 - Registro exitoso ✅
-  ![Registro exitoso](imagenes/registro.png)
+  ![Registro exitoso](./imagenes/registro.png)
 - Login exitoso ✅
-  ![Login exitoso](imagenes/login.png)
+  ![Login exitoso](./imagenes/login.png)
 - Página de bienvenida ✅
-  ![Página de bienvenida](imagenes/bienvenida.png)
+  ![Página de bienvenida](./imagenes/bienvenida.png)
 ---
 
 ## 📦 Hosting en GitHub
